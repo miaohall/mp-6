@@ -6,7 +6,7 @@ export default function Home() {
     const StyledDiv = styled.div`
         width: 80vw;
         margin: 0 auto;
-        background-image: linear-gradient(to bottom, #c2f8cb, #219ebc);
+        background-image: linear-gradient(to bottom, #7dcfb6, #669bbc);
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -19,10 +19,10 @@ export default function Home() {
         text-align: center;
         background-color: #023047;
         color: white;
-        font-size: calc(2px + 1.6vw);
+        font-size: calc(2px + 1.7vw);
         padding: 10%;
         border-radius: 20px;
-        border: 5px dotted white;
+        border: 8px dotted white;
         margin-left: 10%;
         margin-right: 10%;
         box-shadow:0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
